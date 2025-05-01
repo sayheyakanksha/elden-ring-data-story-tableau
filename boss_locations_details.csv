@@ -1,0 +1,211 @@
+Location_id,Location,Boss_id,Boss Name,X,Y,dlc
+loc_0,Limgrave,boss_0,Beastman of Farum Azula,335,1360,0
+loc_0,Limgrave,boss_1,Bell Bearing Hunter,335,1360,0
+loc_0,Limgrave,boss_2,Black Knife Assassin,335,1360,0
+loc_0,Limgrave,boss_3,Bloodhound Knight Darriwil,335,1360,0
+loc_0,Limgrave,boss_4,Crucible Knight,335,1360,0
+loc_0,Limgrave,boss_5,Deathbird,335,1360,0
+loc_0,Limgrave,boss_6,Demi-Human Chief,335,1360,0
+loc_0,Limgrave,boss_7,Erdtree Burial Watchdog (Stormfoot Catacombs),335,1360,0
+loc_0,Limgrave,boss_8,Flying Dragon Agheel,335,1350,0
+loc_0,Limgrave,boss_9,Godrick the Grafted,335,1350,0
+loc_0,Limgrave,boss_10,Grafted Scion,335,1350,0
+loc_0,Limgrave,boss_11,Grave Warden Duelist,335,1350,0
+loc_0,Limgrave,boss_12,Guardian Golem,335,1350,0
+loc_0,Limgrave,boss_13,Mad Pumpkin Head,335,1350,0
+loc_0,Limgrave,boss_14,"Margit, the Fell Omen",335,1350,0
+loc_0,Limgrave,boss_15,Night's Cavalry,335,1350,0
+loc_0,Limgrave,boss_16,Patches,335,1350,0
+loc_0,Limgrave,boss_17,Soldier of Godrick,335,1350,0
+loc_0,Limgrave,boss_18,Stonedigger Troll,335,1350,0
+loc_0,Limgrave,boss_19,Tibia Mariner,335,1350,0
+loc_0,Limgrave,boss_20,Tree Sentinel,335,1350,0
+loc_0,Limgrave,boss_21,Ulcerated Tree Spirit,335,1350,0
+loc_1,Weeping Peninsula,boss_22,Ancient Hero of Zamor,512,1550,0
+loc_1,Weeping Peninsula,boss_23,Cemetery Shade,512,1550,0
+loc_1,Weeping Peninsula,boss_24,Deathbird,512,1550,0
+loc_1,Weeping Peninsula,boss_25,Erdtree Avatar,512,1550,0
+loc_1,Weeping Peninsula,boss_26,Erdtree Burial Watchdog (Impaler's Catacombs),512,1550,0
+loc_1,Weeping Peninsula,boss_27,Leonine Misbegotten,512,1550,0
+loc_1,Weeping Peninsula,boss_28,Miranda the Blighted Bloom,512,1550,0
+loc_1,Weeping Peninsula,boss_29,Night's Cavalry,512,1550,0
+loc_1,Weeping Peninsula,boss_30,Runebear,512,1550,0
+loc_1,Weeping Peninsula,boss_31,Scaly Misbegotten,512,1550,0
+loc_2,Liurnia of the Lakes,boss_32,"Adan, Thief of Fire",420,970,0
+loc_2,Liurnia of the Lakes,boss_33,"Alecto, Black Knife Ringleader",420,970,0
+loc_2,Liurnia of the Lakes,boss_34,Bell Bearing Hunter,420,970,0
+loc_2,Liurnia of the Lakes,boss_35,Black Knife Assassin,420,970,0
+loc_2,Liurnia of the Lakes,boss_36,Bloodhound Knight,420,970,0
+loc_2,Liurnia of the Lakes,boss_37,"Bols, Carian Knight",420,970,0
+loc_2,Liurnia of the Lakes,boss_38,Cemetery Shade,420,970,0
+loc_2,Liurnia of the Lakes,boss_39,Cleanrot Knight,420,970,0
+loc_2,Liurnia of the Lakes,boss_40,Crystalian,420,970,0
+loc_2,Liurnia of the Lakes,boss_41,Crystalian Spear & Crystalian Staff (Duo),420,970,0
+loc_2,Liurnia of the Lakes,boss_42,Death Rite Bird,420,970,0
+loc_2,Liurnia of the Lakes,boss_43,Deathbird,420,970,0
+loc_2,Liurnia of the Lakes,boss_44,Erdtree Avatar (Liurnia Northeast),420,970,0
+loc_2,Liurnia of the Lakes,boss_45,Erdtree Avatar (Liurnia Southwest),420,970,0
+loc_2,Liurnia of the Lakes,boss_46,Erdtree Burial Watchdog,420,970,0
+loc_2,Liurnia of the Lakes,boss_47,Glintstone Dragon Adula,420,970,0
+loc_2,Liurnia of the Lakes,boss_48,Glintstone Dragon Smarag,420,970,0
+loc_2,Liurnia of the Lakes,boss_49,Magma Wyrm Makar,420,970,0
+loc_2,Liurnia of the Lakes,boss_50,Night's Cavalry (Liurnia North),420,970,0
+loc_2,Liurnia of the Lakes,boss_51,Night's Cavalry (Liurnia South),420,970,0
+loc_2,Liurnia of the Lakes,boss_52,Omenkiller,420,970,0
+loc_2,Liurnia of the Lakes,boss_53,Onyx Lord,420,970,0
+loc_2,Liurnia of the Lakes,boss_54,Red Wolf of Radagon,420,970,0
+loc_2,Liurnia of the Lakes,boss_55,"Rennala, Queen of the Full Moon",420,970,0
+loc_2,Liurnia of the Lakes,boss_56,Royal Knight Loretta,420,970,0
+loc_2,Liurnia of the Lakes,boss_57,Royal Revenant,420,970,0
+loc_2,Liurnia of the Lakes,boss_58,Spirit-Caller Snail,420,970,0
+loc_2,Liurnia of the Lakes,boss_59,Tibia Mariner,420,970,0
+loc_3,Caelid,boss_60,Cemetery Shade,640,1440,0
+loc_3,Caelid,boss_61,Commander O'Neil,640,1440,0
+loc_3,Caelid,boss_62,Crucible Knight and Misbegotten Warrior,640,1440,0
+loc_3,Caelid,boss_63,Death Rite Bird,640,1440,0
+loc_3,Caelid,boss_64,Decaying Ekzykes,640,1440,0
+loc_3,Caelid,boss_65,Erdtree Burial Watchdog (Duo),640,1440,0
+loc_3,Caelid,boss_66,Fallingstar Beast,640,1440,0
+loc_3,Caelid,boss_67,Frenzied Duelist,640,1440,0
+loc_3,Caelid,boss_68,Mad Pumpkin Heads,640,1440,0
+loc_3,Caelid,boss_69,Magma Wyrm,640,1440,0
+loc_3,Caelid,boss_70,Night's Cavalry (Caelid),640,1440,0
+loc_3,Caelid,boss_71,Nox Swordstress & Nox Priest,640,1440,0
+loc_3,Caelid,boss_72,Putrid Avatar,640,1440,0
+loc_3,Caelid,boss_73,Starscourge Radahn,640,1440,0
+loc_4,Dragonbarrow,boss_74,Battlemage Hugues,680,1170,0
+loc_4,Dragonbarrow,boss_75,Beastman of Farum Azula (Duo),680,1170,0
+loc_4,Dragonbarrow,boss_76,Bell Bearing Hunter,680,1170,0
+loc_4,Dragonbarrow,boss_77,Black Blade Kindred,680,1170,0
+loc_4,Dragonbarrow,boss_78,Cleanrot Knight (Duo),680,1170,0
+loc_4,Dragonbarrow,boss_79,Flying Dragon Greyll,680,1170,0
+loc_4,Dragonbarrow,boss_80,Godskin Apostle,680,1170,0
+loc_4,Dragonbarrow,boss_81,Night's Cavalry (Dragonbarrow),680,1170,0
+loc_4,Dragonbarrow,boss_82,Putrid Avatar,680,1170,0
+loc_4,Dragonbarrow,boss_83,Putrid Crystalian Trio,680,1170,0
+loc_4,Dragonbarrow,boss_84,Putrid Tree Spirit,680,1170,0
+loc_5,Atlas Plateau,boss_85,Ancient Dragon Lansseax,380,480,0
+loc_5,Atlas Plateau,boss_86,Ancient Hero of Zamor,380,480,0
+loc_5,Atlas Plateau,boss_87,Black Knife Assassin (Sage's Cave),380,480,0
+loc_5,Atlas Plateau,boss_88,Black Knife Assassin (Sainted Hero's Grave),380,480,0
+loc_5,Atlas Plateau,boss_89,Crystalian Spear & Crystalian Ringblade,380,480,0
+loc_5,Atlas Plateau,boss_90,Demi-Human Queen Gilika,380,480,0
+loc_5,Atlas Plateau,boss_91,Elemer of the Briar,380,480,0
+loc_5,Atlas Plateau,boss_92,Erdtree Burial Watchdog,380,480,0
+loc_5,Atlas Plateau,boss_93,Fallingstar Beast,380,480,0
+loc_5,Atlas Plateau,boss_94,Godefroy The Grafted,380,480,0
+loc_5,Atlas Plateau,boss_95,Godskin Apostle,380,480,0
+loc_5,Atlas Plateau,boss_96,Necromancer Garris,380,480,0
+loc_5,Atlas Plateau,boss_97,Night's Cavalry,380,480,0
+loc_5,Atlas Plateau,boss_98,Omenkiller & Miranda the Blighted Bloom,380,480,0
+loc_5,Atlas Plateau,boss_99,Perfumer Tricia and Misbegotten Warrior,380,480,0
+loc_5,Atlas Plateau,boss_100,Sanguine Noble,380,480,0
+loc_5,Atlas Plateau,boss_101,Stonedigger Troll,380,480,0
+loc_5,Atlas Plateau,boss_102,Tibia Mariner,380,480,0
+loc_5,Atlas Plateau,boss_103,Tree Sentinel (Duo),380,480,0
+loc_5,Atlas Plateau,boss_104,Wormface,380,480,0
+loc_6,Mt. Gelmir,boss_105,Abductor Virgins (Duo),350,610,0
+loc_6,Mt. Gelmir,boss_106,Demi-Human Queen Maggie,350,610,0
+loc_6,Mt. Gelmir,boss_107,Demi-Human Queen Margot,350,610,0
+loc_6,Mt. Gelmir,boss_108,Full-Grown Fallingstar Beast,350,610,0
+loc_6,Mt. Gelmir,boss_109,"God-Devouring Serpent / Rykard, Lord of Blasphemy",350,610,0
+loc_6,Mt. Gelmir,boss_110,Godskin Noble,350,610,0
+loc_6,Mt. Gelmir,boss_111,Kindred of Rot (Duo),350,610,0
+loc_6,Mt. Gelmir,boss_112,Magma Wyrm (Fort Laiedd),350,610,0
+loc_6,Mt. Gelmir,boss_113,Red Wolf of the Champion,350,610,0
+loc_6,Mt. Gelmir,boss_114,Ulcerated Tree Spirit,350,610,0
+loc_7,Capital Outskirts,boss_115,Bell Bearing Hunter,410,590,0
+loc_7,Capital Outskirts,boss_116,Crucible Knight & Crucible Knight Ordovis,410,590,0
+loc_7,Capital Outskirts,boss_117,Deathbird,410,590,0
+loc_7,Capital Outskirts,boss_118,Draconic Tree Sentinel,410,590,0
+loc_7,Capital Outskirts,boss_119,Fell Twins,410,590,0
+loc_7,Capital Outskirts,boss_120,Grave Warden Duelist,410,590,0
+loc_7,Capital Outskirts,boss_121,Onyx Lord,410,590,0
+loc_8,"Leyndell, Royal Capital",boss_122,"Esgar, Priest of Blood",510,730,0
+loc_8,"Leyndell, Royal Capital",boss_123,"Godfrey, First Elden Lord",510,730,0
+loc_8,"Leyndell, Royal Capital",boss_124,"Mohg, the Omen",510,730,0
+loc_8,"Leyndell, Royal Capital",boss_125,"Morgott, the Omen King",510,730,0
+loc_9,Mountaintops of the Giants,boss_126,Ancient Hero of Zamor,770,770,0
+loc_9,Mountaintops of the Giants,boss_127,Borealis the Freezing Fog,770,770,0
+loc_9,Mountaintops of the Giants,boss_128,Commander Niall,770,770,0
+loc_9,Mountaintops of the Giants,boss_129,Death Rite Bird,770,770,0
+loc_9,Mountaintops of the Giants,boss_130,Erdtree Avatar,770,770,0
+loc_9,Mountaintops of the Giants,boss_131,Fire Giant,770,770,0
+loc_9,Mountaintops of the Giants,boss_132,Godskin Apostle and Godskin Noble (Spiritcaller Snail),770,770,0
+loc_9,Mountaintops of the Giants,boss_133,Ulcerated Tree Spirit,770,770,0
+loc_9,Mountaintops of the Giants,boss_134,"Vyke, Knight of the Roundtable",770,770,0
+loc_10,Crumbling Farum Azula,boss_135,"Beast Clergyman / Maliketh, the Black Blade",950,850,0
+loc_10,Crumbling Farum Azula,boss_136,Dragonlord Placidusax,950,850,0
+loc_10,Crumbling Farum Azula,boss_137,Godskin Duo,950,850,0
+loc_11,Forbidden Lands,boss_138,Black Blade Kindred,600,710,0
+loc_11,Forbidden Lands,boss_139,Night's Cavalry,600,710,0
+loc_11,Forbidden Lands,boss_140,Stray Mimic Tear,600,710,0
+loc_12,Consecrated Snowfield,boss_141,"Astel, Stars of Darkness",630,580,0
+loc_12,Consecrated Snowfield,boss_142,Death Rite Bird,630,580,0
+loc_12,Consecrated Snowfield,boss_143,Great Wyrm Theodorix,630,580,0
+loc_12,Consecrated Snowfield,boss_144,Misbegotten Crusader,630,580,0
+loc_12,Consecrated Snowfield,boss_145,Night's Cavalry (Duo),630,580,0
+loc_12,Consecrated Snowfield,boss_146,Putrid Avatar,630,580,0
+loc_12,Consecrated Snowfield,boss_147,Putrid Grave Warden Duelist,630,580,0
+loc_13,Miquella's Haligtree,boss_148,"Loretta, Knight of the Haligtree",650,300,0
+loc_13,Miquella's Haligtree,boss_149,"Malenia, Blade of Miquella",650,300,0
+loc_14,Siofra River,boss_155,Ancestor Spirit,1570,980,0
+loc_14,Siofra River,boss_156,Dragonkin Soldier,1570,980,0
+loc_14,Siofra River,boss_157,"Mohg, Lord of Blood",1570,980,0
+loc_15,Ainsel River,boss_158,Dragonkin Soldier of Nokstella,1220,680,0
+loc_16,"Nokron, Eternal City",boss_159,Mimic Tear,1495,1150,0
+loc_16,"Nokron, Eternal City",boss_160,Regal Ancestor Spirit,1495,1150,0
+loc_16,"Nokron, Eternal City",boss_161,Valiant Gargoyle & Valiant Gargoyle (Twinblade),1495,1150,0
+loc_17,Deeproot Depths,boss_162,Crucible Knight Siluria,1460,435,0
+loc_17,Deeproot Depths,boss_163,Fia's Champions,1460,435,0
+loc_17,Deeproot Depths,boss_164,Lichdragon Fortissax,1460,435,0
+loc_18,Lake of Rot,boss_165,"Astel, Naturalborn of the Void",1250,775,0
+loc_18,Lake of Rot,boss_166,Dragonkin Soldier,1250,775,0
+loc_19,"Leyndell, Ashen Capital ",boss_167,"Esgar, Priest of Blood",515,725,0
+loc_19,"Leyndell, Ashen Capital ",boss_168,"Godfrey, First Elden Lord (Hoarah Loux)",515,725,0
+loc_19,"Leyndell, Ashen Capital ",boss_169,"Mohg, the Omen",515,725,0
+loc_19,"Leyndell, Ashen Capital ",boss_170,"Sir Gideon Ofnir, the All-Knowing",515,725,0
+loc_20,Elden Throne,boss_171,Radagon of the Golden Order / Elden Beast,560,820,0
+loc_21,Gravesite Plain,boss_172,Blackgaol Knight,710,540,1
+loc_21,Gravesite Plain,boss_173,Chief Bloodfiend,710,540,1
+loc_21,Gravesite Plain,boss_174,Demi-Human Swordmaster Onze,710,540,1
+loc_21,Gravesite Plain,boss_175,Divine Beast Dancing Lion,710,540,1
+loc_21,Gravesite Plain,boss_176,Ghostflame Dragon,710,540,1
+loc_21,Gravesite Plain,boss_177,Rellana Twin Moon Knight,710,540,1
+loc_21,Gravesite Plain,boss_178,Red Bear,710,540,1
+loc_22,Scadu Atlus,boss_179,Black Knight Edredd,830,890,1
+loc_22,Scadu Atlus,boss_180,Black Knight Garrew,830,890,1
+loc_22,Scadu Atlus,boss_181,"Count Ymir, Mother of Fingers",830,890,1
+loc_22,Scadu Atlus,boss_182,Curseblade Labirith,830,890,1
+loc_22,Scadu Atlus,boss_183,Death Knight,830,890,1
+loc_22,Scadu Atlus,boss_184,Dryleaf Dane,830,890,1
+loc_22,Scadu Atlus,boss_185,Ghostflame Dragon,830,890,1
+loc_22,Scadu Atlus,boss_186,Golden Hippopotamus,830,890,1
+loc_22,Scadu Atlus,boss_187,Messmer the Impaler / Base Serpent Messmer,830,890,1
+loc_22,Scadu Atlus,boss_188,"Metyr, Mother of Fingers",830,890,1
+loc_22,Scadu Atlus,boss_189,Rakshasa,830,890,1
+loc_22,Scadu Atlus,boss_190,"Jori, Elder Inquisitor",830,890,1
+loc_22,Scadu Atlus,boss_191,Ralva the Great Red Bear,830,890,1
+loc_22,Scadu Atlus,boss_192,Tree Sentinel,830,890,1
+loc_23,Rauh Base,boss_193,Death Knight,800,960,1
+loc_23,Rauh Base,boss_194,Rugalea the Great Red Bear,800,960,1
+loc_24,Cerulean Coast,boss_195,Dancer of Ranah,840,320,1
+loc_24,Cerulean Coast,boss_196,Demi-Human Queen Marigga,840,320,1
+loc_24,Cerulean Coast,boss_197,Ghostflame Dragon,840,320,1
+loc_24,Cerulean Coast,boss_198,Putrescent Knight,840,320,1
+loc_25,Charo's Hidden Grave,boss_199,Death Rite Bird,810,455,1
+loc_25,Charo's Hidden Grave,boss_200,Lamenter,810,455,1
+loc_25,Charo's Hidden Grave,boss_201,Tibia Mariner,810,455,1
+loc_26,Jagged Peak,boss_202,Ancient Dragon-Man,1090,550,1
+loc_26,Jagged Peak,boss_203,Ancient Dragon Senessax,1090,550,1
+loc_26,Jagged Peak,boss_204,Bayle the Dread,1090,550,1
+loc_26,Jagged Peak,boss_205,Jagged Peak Drake x2,1090,550,1
+loc_27,Abyssal Woods,boss_206,Midra Lord of Frenzied Flame,1030,670,1
+loc_28,Scaduview,boss_207,Fallingstar Beast,920,1068,1
+loc_28,Scaduview,boss_208,Scadutree Avatar,920,1068,1
+loc_28,Scaduview,boss_209,Commander Gaius,920,1068,1
+loc_28,Scaduview,boss_210,Tree Sentinel,920,1068,1
+loc_29,Ancient Ruins of Rauh,boss_211,Divine Beast Dancing Lion,650,970,1
+loc_29,Ancient Ruins of Rauh,boss_212,"Romina, Saint of the Bud",650,970,1
+loc_30,Enir-Ilim,boss_213,Leda and Allies,510,825,1
+loc_30,Enir-Ilim,boss_214,Promised Consort Radahn / Radahn Consort of Miquella,510,825,1
