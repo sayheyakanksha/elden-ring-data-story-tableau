@@ -3487,7 +3487,7 @@
             <column-instance column='[Score]' derivation='Sum' name='[sum:Score:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
           <filter class='categorical' column='[federated.1mq260i1kgu0iy15q28yo1s5m018].[none:Platform:nk]'>
-            <groupfilter function='member' level='[none:Platform:nk]' member='&quot;Xbox&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
+            <groupfilter function='member' level='[none:Platform:nk]' member='&quot;PS5&quot;' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate' />
           </filter>
           <filter class='quantitative' column='[federated.1mq260i1kgu0iy15q28yo1s5m018].[sum:Rank:qk]' included-values='in-range'>
             <min>1</min>
